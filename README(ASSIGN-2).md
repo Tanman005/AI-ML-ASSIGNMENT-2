@@ -35,8 +35,7 @@ Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 5. **Conclusion** — Summarized key drivers of churn and a limitation of Logistic Regression
    for this problem.
 
-## Results
-> Fill in with the actual values printed after running `Assignment-2.ipynb`:
+## Results:
 
 | Metric    | Score |
 |-----------|-------|
