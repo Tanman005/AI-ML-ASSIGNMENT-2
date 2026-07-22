@@ -40,10 +40,10 @@ Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 | Metric    | Score |
 |-----------|-------|
-| Accuracy  |       |
-| Precision |       |
-| Recall    |       |
-| F1-Score  |       |
+| Accuracy  |   80    |
+| Precision |    65   |
+| Recall    |    56   |
+| F1-Score  |     60  |
 
 **Confusion Matrix:** see the heatmap generated in the notebook (Task 4).
 
